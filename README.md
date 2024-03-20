@@ -1,2 +1,3 @@
-# let-expander
-Racket package built to expand all "local binding" functions
+let-expander
+============
+README text here.
